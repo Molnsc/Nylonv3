@@ -1,0 +1,16 @@
+{
+    "mode": "edit",
+    "gender": 1,
+    "style": 5,
+    "option_ids": {
+        "pupil_tone": 6639732,
+        "outfit": 1018137,
+        "skin_tone": 16764057,
+        "hair_tone": 16250871,
+        "glasses": 0,
+        "hat": 0,
+        "brow_tone": 1579802,
+        "footwear": 468,
+        "sock": 295
+    }
+}
