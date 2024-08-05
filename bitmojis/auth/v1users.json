@@ -1,0 +1,10 @@
+[
+  {
+    "hwid": "jake",
+    "type": "allowed"
+  },
+  {
+    "hwid": "henry",
+    "type": "banned"
+  }
+]
